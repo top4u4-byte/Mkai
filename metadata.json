@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS",
+  "description": "Phase 1 personal AI assistant with voice recognition, Text-to-Speech, offline commands, and Gemini integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

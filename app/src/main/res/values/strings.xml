@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JARVIS</string>
+    <string name="accessibility_service_label">JARVIS Assistant Automation Service</string>
+    <string name="accessibility_service_description">Enables JARVIS to execute requested navigation actions such as navigating back, returning home, and assisting with device controls upon your explicit voice commands.</string>
+</resources>
